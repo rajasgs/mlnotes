@@ -6,8 +6,8 @@ features = ["responsive", "blog"]
 min_version = 0.25
 
 [author]
-  name = "Chris Albon"
-  homepage = "https://chrisalbon.com"
+  name = "TactLabs"
+  homepage = "https://github.com/tactlabs"
 
 [based]
   name = "Alan Orth"

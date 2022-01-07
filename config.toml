@@ -1,6 +1,6 @@
-baseURL = "https://chrisalbon.com/"
+baseURL = "https://tactlabs.github.io/mlnotes/"
 languageCode = "en-us"
-title = "Chris Albon"
+title = "TactLabs"
 theme = "berbera"
 
 pygmentsCodeFences=true
